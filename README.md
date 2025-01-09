@@ -2,7 +2,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-eduardo-dias-gon%C3%A7alves-071422251/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor_edu017/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//5513996395898)
-<br/>
 ### GSC Companies:
 [![Linkedin pagina](https://img.shields.io/badge/pagina_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/gsc-companies/?viewAsMember=true)
 [![Facebook](https://img.shields.io/badge/pagina_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61564216276933&locale=pt_BR)
