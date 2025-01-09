@@ -6,6 +6,7 @@
 [![Linkedin pagina](https://img.shields.io/badge/pagina_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/gsc-companies/?viewAsMember=true)
 [![Facebook](https://img.shields.io/badge/pagina_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61564216276933&locale=pt_BR)
 [![Instagram](https://img.shields.io/badge/pagina_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gsc_companies/)
+[![X](https://img.shields.io/badge/pagina_x-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gsc_companies/)
 
 
 
