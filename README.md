@@ -1,7 +1,7 @@
 ### Ola eu sou Victor Eduardo! 😜
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-eduardo-dias-gon%C3%A7alves-071422251/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](@gsc_comapnies)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor_edu017/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/victor_edu017/](https://www.instagram.com/gsc_companies/))
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//5513996395898)
 
 ![Victor Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=victoreduardo21&show_icons=true&theme=radical)
